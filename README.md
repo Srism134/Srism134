@@ -7,29 +7,29 @@
 
 ---
 
-🔭 I’m currently working on:
-- 🧠 Deep Learning Models (CNN, LSTM, Transformers)
-- 🤖 Large Language Model fine-tuning
-- ☁️ MLOps & Scalable AI infrastructure on AWS
+I’m currently working on:
+- Deep Learning Models (CNN, LSTM, Transformers)
+- Large Language Model fine-tuning
+- MLOps & Scalable AI infrastructure on AWS
 
-🌱 I’m currently learning:
+I’m currently learning:
 - LangChain + OpenAI API Integration
 - Cloud DevOps with Docker, Kubernetes
 - Mobile AppSec & Reverse Engineering
 
-💬 Ask me about:  
+Ask me about:  
 Data science projects, ethical AI, resumes, hackathon winning tips!
 
 ---
 
-📫 How to reach me:
+How to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/smriti-8b22921b6/)
 - 📧 Email: smritismriti674@gmail.com
 
 
 ---
 
-### 🧰 Tech Stack:
+### Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,7 +39,7 @@ Data science projects, ethical AI, resumes, hackathon winning tips!
 
 ---
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 ![Smriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srism134&show_icons=true&theme=tokyonight)
 
 ---
