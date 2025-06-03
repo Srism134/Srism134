@@ -44,11 +44,11 @@ How to reach me:
 
 ---
 
-### 🚀 Highlight Projects:
-- 🧬 **ECG Arrhythmia Classifier** - Deep learning using CNN & LSTM
-- 🩸 **IDC Breast Cancer Detector** - CNN model for histopathology slides
-- 🤖 **Resume Reviewer with GPT-4** - LLM pipeline using LangChain
-- 🌤️ **Weather Chatbot** - Built using OpenAI API + Visual Crossing data
+### Highlight Projects:
+- **ECG Arrhythmia Classifier** - Deep learning using CNN & LSTM
+- **IDC Breast Cancer Detector** - CNN model for histopathology slides
+- **Resume Reviewer with GPT-4** - LLM pipeline using LangChain
+- **Weather Chatbot** - Built using OpenAI API + Visual Crossing data
 
 ---
 
