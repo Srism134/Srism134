@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI Engineer | Data Scientist | Cloud Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/Srism134/Srism134/blob/main/banner.png" alt="Smriti GitHub Banner" />
+  <img src="https://github.com/Srism134/Srism134/blob/main/Screenshot%202025-06-03%20040459.png" alt="Smriti GitHub Banner" />
 </p>
 
 ---
