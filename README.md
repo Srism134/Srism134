@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Smriti 👋🏼💻</h1>
+<h1 align="center">Hi, I'm Smriti </h1>
 <h3 align="center">Aspiring AI Engineer | Data Scientist | Cloud Dev Enthusiast</h3>
 
 <p align="center">
