@@ -25,7 +25,7 @@ Data science projects, ethical AI, resumes, hackathon winning tips!
 📫 How to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/smriti-8b22921b6/)
 - 📧 Email: smritismriti674@gmail.com
-- 🌐 Portfolio: [monica.dev (replace with yours)](https://yourportfolio.dev)
+
 
 ---
 
