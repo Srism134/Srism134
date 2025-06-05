@@ -37,10 +37,8 @@ How to reach me:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
----
 
-### GitHub Stats:
-![Smriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Srism134&show_icons=true&theme=tokyonight)
+
 
 ---
 
